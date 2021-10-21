@@ -3,7 +3,7 @@
   ## Hey 👋 I'm Ashish!
 
 
-- 👋 Hi, I’m @Ashishkumaraman
+- 👋 Hi, I’m Javascript
 - 👀 I’m interested in Web developer
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on full stack developer
