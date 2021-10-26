@@ -3,10 +3,10 @@
   ## Hey 👋 I'm Ashish!
 
 
-- 👋 Hi, I’m Javascript
-- 👀 I’m interested in Web developer
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on full stack developer
+- 👋 Hi, I’m Learnig Javascript
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning DSA and React JS
+
 
 
 <!---
