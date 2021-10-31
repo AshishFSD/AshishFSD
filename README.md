@@ -3,7 +3,8 @@
   ## Hey 👋 I'm Ashish!
 
 
-- 👋 Hi, I’m Learnig Javascript
+- 👋 I, have learned Javascript
+- 📚 I'm learning  **React** so i can build better user interface.
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning DSA and React JS
 
